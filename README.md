@@ -1,4 +1,4 @@
-# Khazix Skills
+# Skills
 
 这里是我自己在用的、经过长期打磨的 Prompts 和 Skills，现在决定把它们完整地、一字不改地开源出来。
 
@@ -42,7 +42,3 @@
 | Claude Code | `~/.claude/skills/` |
 | OpenClaw | `~/.openclaw/skills/` |
 | Codex | `~/.agents/skills/` |
-
-## License
-
-[MIT](./LICENSE)
